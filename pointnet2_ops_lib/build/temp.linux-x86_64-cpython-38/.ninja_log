@@ -1,0 +1,10 @@
+# ninja log v7
+0	57385	1769654804193370047	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query_gpu.o	f9e422118f93ec39
+3	57666	1769654804196369885	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling_gpu.o	6cd6a92b250d0c98
+2	58979	1769654804195369939	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points_gpu.o	3ed77ad4c63eed7
+3	60163	1769654804196369885	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate_gpu.o	5f8b41467e0747d6
+2	61521	1769654804195369939	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	7252c0c228334bf9
+3	61664	1769654804196369885	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	c9a8df1b9cfb6aff
+1	63671	1769654804194369993	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	6bed0d033e0ebb2e
+0	64188	1769654804193370047	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	beecbba2b2a4a64b
+2	66756	1769654804195369939	/home/plote/hoi/GAPartNet/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	5f0b3774e4e45cd4
